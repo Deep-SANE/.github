@@ -1,7 +1,7 @@
 # Deep-SANE
 
 **Deep**-learning & **S**ymmetry-adapted, **A**b-initio **N**uclear modeling —
-an AI-assisted **E**cosystem.
+an AI-ready **E**cosystem.
 
 A family of libraries for symmetry-adapted, ab-initio nuclear simulations, and deep learning for nuclear physics:
 
